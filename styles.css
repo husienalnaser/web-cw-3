@@ -1,0 +1,21 @@
+img{
+    display: block;
+}
+ul{
+    list-style-type: none;
+}
+.playstation{
+    background-color: blue;
+}
+.pc{
+    background-color: green;
+}
+.nintendo{
+    background-color: red;
+}
+h1{
+    text-align: center;
+}
+h3{
+    list-style-type: disc; color: black;
+}
